@@ -86,6 +86,6 @@ docker run hello-world
 
 Kết quả sau khi chạy lệnh trên
 
-![Hướng dẫn cài đặt Docker trên Ubuntu](https://techfinally.com/wp-content/uploads/2020/08/techfinally-huong-dan-cai-dat-docker-tren-ubuntu-h02-1024x350.jpg)
+![Hướng dẫn cài đặt Docker trên Ubuntu](https://techfinally.com/wp-content/uploads/2020/08/techfinally-huong-dan-cai-dat-docker-tren-ubuntu-h02-1024x382.jpg)
 
 Nguồn: [Hướng dẫn cài đặt Docker trên Ubuntu](https://techfinally.com/huong-dan-cai-dat-docker-tren-ubuntu/)
